@@ -1,2 +1,2 @@
-# pruning-Bayesianneuralnetwork
-"# bayes_prun" 
+# Bayesian neural network pruning
+ 
